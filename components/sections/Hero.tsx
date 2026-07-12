@@ -45,7 +45,7 @@ export default function Hero() {
             </a>
 
             <a
-              href="/resume/Adewumi_Ibraheem_Resume.pdf"
+              href="/resume/Adewumi_Ibraheem_ATS_Resume.pdf"
               target="_blank"
               className="rounded-xl border border-gray-700 px-8 py-4 font-semibold transition hover:border-blue-500"
             >
